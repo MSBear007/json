@@ -2,17 +2,15 @@
 	"questions": [
 		{
 			"id": 1,
-			"title": "hawayou?",
-			"text": "noting",
 			"imageUrl": "https://sun9-40.userapi.com/c854320/v854320660/1141ce/8wyTXqAv9dw.jpg",
+			"title": "hawayou?",
 			"answersCount": 1
 		},
 		{
 			"id": 2,
-			"title": "hawwayou?",
-			"text": "nothing",
 			"imageUrl": "https://sun9-40.userapi.com/c854320/v854320660/1141ce/8wyTXqAv9dw.jpg",
-			"answersCount": 2
+			"title": "hawayou?",
+			"answersCount": 1
 		}
 	]
 }
