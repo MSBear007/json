@@ -2,15 +2,27 @@
 	"questions": [
 		{
 			"id": 1,
+			"publicationDate": "07.70.7077",
 			"imageUrl": "https://sun9-40.userapi.com/c854320/v854320660/1141ce/8wyTXqAv9dw.jpg",
 			"title": "hawayou?",
-			"answersCount": 1
+			"answersCount": 1,
+			"answers": [
+				{name: "iknow"},
+				{name: "idontknow"}
+			],
+			"description": "heresmypoint"
+
 		},
 		{
 			"id": 2,
 			"imageUrl": "https://sun9-40.userapi.com/c854320/v854320660/1141ce/8wyTXqAv9dw.jpg",
 			"title": "hawayou?",
-			"answersCount": 1
+			"answersCount": 1,
+			"answers": [
+				{name: "iknow"},
+				{name: "idontknow"}
+			],
+			"description": "heresmypoint"
 		}
 	]
 }
